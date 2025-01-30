@@ -1,7 +1,15 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+.graffiti s{
+	text-decoration-style: double;
+}
+
+.graffiti{
+	font-style: italic;
+}
+
 p.editor{
-  font-size:smaller;
-  font-style: italic;
+	font-size:smaller;
+	font-style: italic;
 }
